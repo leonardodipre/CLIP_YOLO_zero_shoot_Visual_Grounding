@@ -1,7 +1,3 @@
-Here is an enhanced README with detailed information about the main approach, including the loss calculation and IoU for bounding boxes in visual grounding:
-
----
-
 # CLIP_YOLO_zero_shoot_Visual_Grounding
 
 ## Introduction
@@ -95,6 +91,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License.
 
----
-
-For more details, visit the [repository](https://github.com/leonardodipre/CLIP_YOLO_zero_shoot_Visual_Grounding).
